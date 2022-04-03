@@ -1,0 +1,27 @@
+<!doctype>
+<html>
+<head>
+</head>
+<body>
+<table>
+<tr>
+<th rowspan ="2"> N. </th>
+<style>
+ backgroud-color: grey
+ padding: 10px
+ border: 1px
+ text-align: center 
+ </style>
+ </tr>
+ <tr>
+ <td rowspan ="2"> 1 </td>
+ <style> 
+ background-color: grey
+ padding: 20px
+ border:1px 
+ text-align: center
+ </style>
+ </tr>
+ <tr>
+ <th rowspan="2"> Titolo </th>
+ <style>
