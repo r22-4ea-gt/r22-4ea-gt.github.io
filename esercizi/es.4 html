@@ -25,5 +25,14 @@
  <tr>
  <th rowspan="2"> Titolo </th>
  <style>
+ background-color: grey
+ padding:20px
+ border:1px
+ text-align: right
+ </style>
+ </tr>
+ <tr>
+ <b> Ryomen Sukuna </b>
+ <style> 
 </head>
 </html>
