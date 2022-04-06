@@ -1,38 +1,38 @@
-<!doctype>
+<!DOCTYPE html>
 <html>
 <head>
+
 </head>
-<body>
-<table>
-<tr>
-<th rowspan ="2"> N. </th>
-<style>
- backgroud-color: grey
- padding: 10px
- border: 1px
- text-align: center 
- </style>
- </tr>
- <tr>
- <td rowspan ="2"> 1 </td>
- <style> 
- background-color: grey
- padding: 20px
- border:1px 
- text-align: center
- </style>
- </tr>
- <tr>
- <th rowspan="2"> Titolo </th>
- <style>
- background-color: grey
- padding:20px
- border:1px
- text-align: right
- </style>
- </tr>
- <tr>
- <b> Ryomen Sukuna </b>
- <style> 
-</head>
+  <body>
+    <table>
+    <tr>
+    <th rowspan="2"> N. </th>
+    <td rowspan="2"> Titolo</td>
+    <th colspan="2"> Data di prima pubblicazione </th>
+    </tr>
+    
+    <tr>
+    <th> Giapponese</th>
+    <th> Italiano </th>
+    </tr>
+    
+    <tr>
+    <th rowspan="2"> 1 </th>
+    <th> Ryomen Sukuna </th>
+    <td> 4 Luglio 2018 <sup>[2]</sup> </td>
+    <td> 31 Ottobre 2019 <sup>[3]</sup></td>
+    </tr>
+    
+    <tr>
+    <td colspan="3"></td>
+    Capitoli: 
+    <ol>
+    <li> Ryomen Sukuna </li>
+    <li> ... </li>
+    <li> Per me stesso </li>
+    </ol>
+    </tr>
+    
+    </table>
+  </body>
 </html>
